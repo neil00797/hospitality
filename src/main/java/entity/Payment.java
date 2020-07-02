@@ -1,5 +1,5 @@
 package entity;
-/*test change*/
+
 public class Payment {
     public String paymentMethod;
     public double roomCost, serviceCost, totalStayCost;

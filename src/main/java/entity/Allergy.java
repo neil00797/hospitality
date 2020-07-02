@@ -1,4 +1,4 @@
-package org.hospitality.entity;
+package entity;
 
 public class Allergy {
     private String allergyID,allergyDescription;

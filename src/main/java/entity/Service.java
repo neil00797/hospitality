@@ -1,4 +1,4 @@
-package org.hospitality.entity;
+package entity;
 
 public class Service {
     private static String serviceId;

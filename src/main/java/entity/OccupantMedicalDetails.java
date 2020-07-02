@@ -1,4 +1,4 @@
-package org.hospitality.entity;
+package entity;
 
 public class OccupantMedicalDetails {
 private Allergy allergy;

@@ -1,6 +1,6 @@
 package factory;
 
-import Utility.Helper;
+import utility.Helper;
 import entity.Delivery;
 
 public class DeliveryFactory {
